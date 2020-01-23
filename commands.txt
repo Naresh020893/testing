@@ -4,3 +4,16 @@ List of git commands used in real time developement
 3.git add : To add Newly created and modified files to staging area
 4.git commit : To comitt code to local repository
 5.git branch : To show all branches available with perticular repository
+6.git checkout -b <branch_name> : To create new branch and switched to that branch
+7.git merge : To merge the code from various barnches to master
+8.git pull : To pull the code from remote repository to our local repository
+9.git push : To Push the code from our local repository to remote repository
+10. git log : To show the commit history
+	a) git log --author = "author_name" : To show the commits of perticular author
+	b) git log --before = "<date>" : To show the commits of before perticular date
+	c) git log --oneline : To show last commit with hash
+11.git stash -u : to stash(add commit breaks) in temporary folder before commiting the files
+12.git stash list : To store number of stashes
+13.git stash show : To inspect stash list
+14.git stash apply : To apply stash to commit
+15.git revert <hashof commit(commit ID)> : To revert back the last commit
