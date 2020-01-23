@@ -1,0 +1,1 @@
+This is sample testing for copying folder from one branch to another branch.

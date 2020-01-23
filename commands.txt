@@ -1,0 +1,6 @@
+List of git commands used in real time developement
+1.git init : To initialize the git repository
+2.git remote add origin <branch_name> ssh_key : To connect remote repository
+3.git add : To add Newly created and modified files to staging area
+4.git commit : To comitt code to local repository
+5.git branch : To show all branches available with perticular repository
